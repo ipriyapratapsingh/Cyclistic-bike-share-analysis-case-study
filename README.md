@@ -68,7 +68,8 @@ time(ended_at - started_at) as ride_lenght
 from cycle
 
 UPDATE [table] SET [column]=0 WHERE [column] IS NULL¨ 
+----------> got total 11 columns in final result <----------
+
 
 [Report Cyclistic.docx](https://github.com/ipriyapratapsingh/Cyclistic-bike-share-analysis-case-study/files/8587062/Report.Cyclistic.docx)
-
-----------> got total 11 columns in final result <----------
+visualization in Tableau: https://public.tableau.com/views/CyclisticCaseStudyDataVisualization1Year/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
